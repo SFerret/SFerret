@@ -6,13 +6,17 @@
 
 ### 水下机器人硬件系统的开发
 
-基于全志H3的水下机器人主控系统
+基于全志H3的水下机器人主控系统\n
 [ROV_controller](https://github.com/SFerret/ROV_controller)
+![ROV_1](img/ROV_Con_3D.png)
+![ROV_2](img/system.jpg)
 
 ### 开关电源设计
 
-基于上海芯龙电源管理芯片的多路DCDC电源转换模块
+基于上海芯龙电源管理芯片的多路DCDC电源转换模块\n
 [2023TI_cup_PowerM](https://github.com/SFerret/2023TI_cup_PowerM)
+![PM](img/PM_3D.png)
 
-基于TI德州仪器LM5155反激升压电路设计
+基于TI德州仪器LM5155反激升压电路设计\n
 [LM5155_Flyback](https://github.com/SFerret/LM5155_FlyBack)
+![FLYBACK](img/LM5155_3D.png)
