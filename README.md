@@ -1,6 +1,6 @@
 # 自我介绍
 
-这里是SFerret的github托管仓库。
+HI！这里是SFerret的github托管仓库。热爱电子设计，喜好硬件开发的爱好者一枚
 
 ## 个人参与项目
 
@@ -12,9 +12,7 @@
 ### 开关电源设计
 
 基于上海芯龙电源管理芯片的多路DCDC电源转换模块
-[2023TI_cup_PowerM](https://github.com/SFerret/2023TI_cup_PowerM)
-
+[2023TI_cup_PowerM](https://github.com/SFerret/2023NUEDC_PowerM)
 
 基于TI德州仪器LM5155反激升压电路设计
 [LM5155_Flyback](https://github.com/SFerret/LM5155_FlyBack)
-
