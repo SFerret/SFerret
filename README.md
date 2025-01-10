@@ -6,6 +6,9 @@ HI！这里是SFerret的github托管仓库。热爱电子设计，喜好硬件�
 
 ### 水下机器人硬件系统的开发
 
+基于RV1103与ESP32水下航行器电控
+[Underwater-Vehicle-Electrical-Control-System](https://github.com/SFerret/Underwater-Vehicle-Electrical-Control-System)
+
 基于全志H3的水下机器人主控系统
 [ROV_controller](https://github.com/SFerret/ROV_controller)
 
